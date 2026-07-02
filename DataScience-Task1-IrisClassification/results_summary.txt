@@ -1,0 +1,16 @@
+
+========================================
+IRIS FLOWER CLASSIFICATION - SUMMARY
+========================================
+
+Dataset: Iris (150 samples, 4 features)
+Train/Test Split: 80/20
+
+Model Performance:
+- Logistic Regression: 0.9667
+- KNN (k=5): 1.0000
+- Decision Tree: 0.9333
+
+Best Model: KNN (k=5) with 1.0000 accuracy.
+
+Key Insight: Petal Length and Petal Width are the most discriminative features.
