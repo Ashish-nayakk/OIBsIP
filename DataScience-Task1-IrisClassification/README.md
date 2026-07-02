@@ -262,7 +262,7 @@ All visualizations are saved in the `visualizations/` folder:
 
 **Ashish Kumar Nayak**  
 Data Science Intern at Oasis Infobyte  
-[GitHub](https://github.com/Ashish-nayakk) | [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/Ashish-nayakk) | [LinkedIn](https://linkedin.com/in/ashish-kumar-nayak-2ba779385)
 
 ---
 
